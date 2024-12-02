@@ -94,9 +94,8 @@ Welcome to the **Practice-Oriented Lorem Ipsum Generator**! This project is desi
 
 php
 
-Copy code
-
-`lorem-ipsum-practice/
+```
+lorem-ipsum-practice/
 ├── public/                 # Static assets
 ├── src/
 │   ├── components/         # React components
@@ -109,8 +108,8 @@ Copy code
 │   └── index.js            # Entry point
 ├── package.json            # Project metadata and dependencies
 └── README.md               # Project documentation`
+```
 
-* * * * *
 
 **Contributing**
 ----------------
